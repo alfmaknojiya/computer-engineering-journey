@@ -45,8 +45,7 @@ int main() {
     std::cout << "The largest number is: " << largest << std::endl;
     std::cout << "The smallest number is: " << smallest << std::endl;
 
-    float avg;
-    average(numbers, avg);
+    float avg = average(numbers);
     std::cout << "The average of the numbers is: " << avg << std::endl;
 
     return 0;
