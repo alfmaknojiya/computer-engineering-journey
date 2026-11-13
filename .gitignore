@@ -1,6 +1,11 @@
 # Compiled programs
 hello
 basics
+student-management-system/student_system
+
+# Student data
+student-management-system/students.txt
 
 # VS Code settings
 .vscode/
+**/.vscode/
